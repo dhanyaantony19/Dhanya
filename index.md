@@ -9,23 +9,19 @@ Email: dhanyamol_p170019cs@nitc.ac.in
 
 ## Research Interests:
 
-- Graph Theory and Algorithms
+* Graph Theory and Algorithms
 
 * Graph Modification problems
 
 * Parameterised Complexity
 
 
-### Markdown
+## Academic Background:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ * PhD (On-going), CSED, NIT Calicut India
+ * M.Tech, Computer Science and Engineering, SCT College of Engineering Thiruvananthapuram, India
+ * B.Tech, Computer Science and Engineering, RIT Kottayam, India
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List
