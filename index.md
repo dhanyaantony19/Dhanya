@@ -15,6 +15,14 @@ Email: dhanyamol_p170019cs@nitc.ac.in
 
 * Parameterised Complexity
 
+
+## Academic Background:
+
+ * PhD (On-going), CSED, NIT Calicut India
+ * M.Tech, Computer Science and Engineering, SCT College of Engineering Thiruvananthapuram, India
+ * B.Tech, Computer Science and Engineering, RIT Kottayam, India
+
+
 ## Publications:
 
 -[DBLP list](https://dblp.org/pid/287/4769.html)
@@ -25,11 +33,5 @@ Email: dhanyamol_p170019cs@nitc.ac.in
 
 * On subgraph complementation to H-free graphs, June 24. WG 2021, Warsaw Poland. [Video](https://www.youtube.com/watch?v=AHqdMcIjMlY)
 
-
-## Academic Background:
-
- * PhD (On-going), CSED, NIT Calicut India
- * M.Tech, Computer Science and Engineering, SCT College of Engineering Thiruvananthapuram, India
- * B.Tech, Computer Science and Engineering, RIT Kottayam, India
 
 
