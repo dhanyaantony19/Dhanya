@@ -1,7 +1,13 @@
 ## Dhanyamol Antony
 
-You can use the [editor on GitHub](https://github.com/dhanyaantony19/Dhanya/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Research Scholar
 
+Department of Computer Science and Engineering
+National Institute of Technology, Calicut
+
+Kozhikode, Kerala, India - 673601 India
+
+Email: dhanyamol_p170019cs@nitc.ac.in
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
