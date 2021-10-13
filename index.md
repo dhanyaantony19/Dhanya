@@ -15,13 +15,15 @@ Email: dhanyamol_p170019cs@nitc.ac.in
 
 * Parameterised Complexity
 
+## Publications:
+
+-[DBLP list](https://dblp.org/pid/287/4769.html)
+
+
 ## Academic Background:
 
  * PhD (On-going), CSED, NIT Calicut India
  * M.Tech, Computer Science and Engineering, SCT College of Engineering Thiruvananthapuram, India
  * B.Tech, Computer Science and Engineering, RIT Kottayam, India
 
-## Publications:
-
--[DBLP list](https://dblp.org/pid/287/4769.html)
 
