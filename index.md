@@ -23,7 +23,7 @@ Email: dhanyamol_p170019cs@nitc.ac.in
 
 ## Presentations:
 
-    On subgraph complementation to H-free graphs, June 24. WG 2021, Warsaw Poland. [Video](https://www.youtube.com/watch?v=AHqdMcIjMlY)
+* On subgraph complementation to H-free graphs, June 24. WG 2021, Warsaw Poland. [Video](https://www.youtube.com/watch?v=AHqdMcIjMlY)
 
 
 ## Academic Background:
