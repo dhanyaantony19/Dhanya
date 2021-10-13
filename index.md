@@ -21,3 +21,8 @@ Email: dhanyamol_p170019cs@nitc.ac.in
  * M.Tech, Computer Science and Engineering, SCT College of Engineering Thiruvananthapuram, India
  * B.Tech, Computer Science and Engineering, RIT Kottayam, India
 
+## Publications:
+
+http://github.com - automatic!
+[GitHub](http://github.com)
+
