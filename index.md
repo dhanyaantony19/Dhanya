@@ -8,13 +8,11 @@ Kozhikode, Kerala, India - 673601 India
 Email: dhanyamol_p170019cs@nitc.ac.in
 
 ## Research Interests:
-
-
-   <ul>
-  <l1>Graph Theory and Algorithms</l1>
-  <l1> Graph Modification problems</l1>
-  <l1>Parameterised Complexity</l1>
-
+<ul>
+  <li>Graph Theory and Algorithms</li>
+  <li>Graph Modification problems</li>
+  <li>Parameterised Complexity</li>
+</ul>
 
 ### Markdown
 
