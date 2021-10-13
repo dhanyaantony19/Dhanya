@@ -7,15 +7,14 @@ Kozhikode, Kerala, India - 673601 India
 
 Email: dhanyamol_p170019cs@nitc.ac.in
 
-## Research Scholar
+## Research Interests:
 
-Department of Computer Science and Engineering
-National Institute of Technology, Calicut
 
-Kozhikode, Kerala, India - 673601 India
+   <ul>
+  <l1>Graph Theory and Algorithms</l1>
+  <l1> Graph Modification problems</l1>
+  <l1>Parameterised Complexity</l1>
 
-Email: dhanyamol_p170019cs@nitc.ac.in
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
