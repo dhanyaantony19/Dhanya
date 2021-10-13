@@ -19,6 +19,8 @@ Email: dhanyamol_p170019cs@nitc.ac.in
 
 -[DBLP list](https://dblp.org/pid/287/4769.html)
 
+* Antony, D, Garchar J, Pal S, Sandeep RB, Sen S, Subashini R. 2021. On subgraph complementation to H-free graphs, June 24. WG 2021, Warsaw Poland
+
 
 ## Academic Background:
 
