@@ -22,6 +22,21 @@ Email: dhanyamol_p170019cs@nitc.ac.in
  * M.Tech, Computer Science and Engineering, SCT College of Engineering Thiruvananthapuram, India
  * B.Tech, Computer Science and Engineering, RIT Kottayam, India
 
+##  Research Supervisor
+
+* Dr. R Subashini
+
+##  Collaborators of published/accepted papers
+
+* Dr. R Subashini
+
+* Dr. Sandeep R B
+
+* Dr. Sagnik Sen
+
+* Sagartanu Pal
+
+
 
 ## Publications:
 
