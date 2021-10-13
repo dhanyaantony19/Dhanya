@@ -23,6 +23,6 @@ Email: dhanyamol_p170019cs@nitc.ac.in
 
 ## Publications:
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+DBLP list -
+[GitHub](https://dblp.org/pid/287/4769.html)
 
