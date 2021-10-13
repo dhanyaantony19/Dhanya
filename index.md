@@ -1,5 +1,12 @@
 ## Dhanyamol Antony
 
+Department of Computer Science and Engineering
+National Institute of Technology, Calicut
+
+Kozhikode, Kerala, India - 673601 India
+
+Email: dhanyamol_p170019cs@nitc.ac.in
+
 ## Research Scholar
 
 Department of Computer Science and Engineering
