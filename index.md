@@ -9,11 +9,11 @@ Email: dhanyamol_p170019cs@nitc.ac.in
 
 ## Research Interests:
 
-*Graph Theory and Algorithms
+* Graph Theory and Algorithms
 
-*Graph Modification problems
+* Graph Modification problems
 
-*Parameterised Complexity
+* Parameterised Complexity
 
 
 ### Markdown
