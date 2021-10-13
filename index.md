@@ -24,5 +24,5 @@ Email: dhanyamol_p170019cs@nitc.ac.in
 ## Publications:
 
 DBLP list -
-[GitHub](https://dblp.org/pid/287/4769.html)
+[DBLP list](https://dblp.org/pid/287/4769.html)
 
