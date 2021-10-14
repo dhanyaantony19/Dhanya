@@ -18,7 +18,7 @@ Email: dhanyamol_p170019cs@nitc.ac.in
 
 * Graph Modification problems
 
-* Parameterized Complexity
+* Parameterized Algorithms & Complexity
 
 
 ## Academic Background:
