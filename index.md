@@ -31,6 +31,19 @@ Email: dhanyamol_p170019cs@nitc.ac.in
 
 * [Dr. R Subashini](https://people.cse.nitc.ac.in/subhashini/)
 
+
+## Publications:
+
+-[DBLP list](https://dblp.org/pid/287/4769.html)
+
+* Antony, D, Garchar J, Pal S, Sandeep RB, Sen S, Subashini R. 2021. On subgraph complementation to H-free graphs, June 24. WG 2021, Warsaw Poland
+
+
+## Presentations:
+
+* On subgraph complementation to H-free graphs, June 24. WG 2021, Warsaw Poland. [Video](https://www.youtube.com/watch?v=AHqdMcIjMlY)
+
+
 ##  Collaborators of published/accepted papers
 
 * [Dr. R Subashini](https://people.cse.nitc.ac.in/subhashini/)
@@ -42,16 +55,6 @@ Email: dhanyamol_p170019cs@nitc.ac.in
 * [Sagartanu Pal](https://www.researchgate.net/profile/Sagartanu-Pal)
 
 
-
-## Publications:
-
--[DBLP list](https://dblp.org/pid/287/4769.html)
-
-* Antony, D, Garchar J, Pal S, Sandeep RB, Sen S, Subashini R. 2021. On subgraph complementation to H-free graphs, June 24. WG 2021, Warsaw Poland
-
-## Presentations:
-
-* On subgraph complementation to H-free graphs, June 24. WG 2021, Warsaw Poland. [Video](https://www.youtube.com/watch?v=AHqdMcIjMlY)
 
 
 
