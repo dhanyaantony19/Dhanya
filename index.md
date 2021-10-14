@@ -24,11 +24,11 @@ Email: dhanyamol_p170019cs@nitc.ac.in
 
 ##  Research Supervisor
 
-* Dr. R Subashini
+* [Dr. R Subashini](https://people.cse.nitc.ac.in/subhashini/)
 
 ##  Collaborators of published/accepted papers
 
-* Dr. R Subashini
+* [Dr. R Subashini](https://people.cse.nitc.ac.in/subhashini/)
 
 * Dr. Sandeep R B
 
