@@ -4,9 +4,11 @@ Research Scholar
 
 Computer Science and Engineering Department
 
-National Institute of Technology, Calicut
+National Institute of Technology Calicut
 
-Kozhikode, Kerala, India - 673601 
+Kozhikode, Kerala- 673601 
+
+India 
 
 Email: dhanyamol_p170019cs@nitc.ac.in
 
