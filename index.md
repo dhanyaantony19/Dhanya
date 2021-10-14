@@ -2,7 +2,7 @@
 
 Research Scholar
 
-Department of Computer Science and Engineering
+Computer Science and Engineering Department
 
 National Institute of Technology, Calicut
 
