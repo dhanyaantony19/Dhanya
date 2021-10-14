@@ -30,11 +30,11 @@ Email: dhanyamol_p170019cs@nitc.ac.in
 
 * [Dr. R Subashini](https://people.cse.nitc.ac.in/subhashini/)
 
-* Dr. Sandeep R B
+* [Dr. Sandeep R B](https://sites.google.com/site/homepagesandeeprb/home)
 
-* Dr. Sagnik Sen
+* [Dr. Sagnik Sen](https://homepages.iitdh.ac.in/~sen/research.html)
 
-* Sagartanu Pal
+* [Sagartanu Pal](https://www.researchgate.net/profile/Sagartanu-Pal)
 
 
 
