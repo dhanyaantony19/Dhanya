@@ -6,7 +6,7 @@ Computer Science and Engineering Department
 
 National Institute of Technology, Calicut
 
-Kozhikode, Kerala, India - 673601 India
+Kozhikode, Kerala, India - 673601 
 
 Email: dhanyamol_p170019cs@nitc.ac.in
 
